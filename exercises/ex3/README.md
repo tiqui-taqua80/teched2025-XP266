@@ -1,4 +1,4 @@
-# Exercise 3.1 - Create new Development Project in SAP Build
+# Exercise 3.1 - Create a new Development Project in SAP Build
 
 In this exercise, we will create...
 

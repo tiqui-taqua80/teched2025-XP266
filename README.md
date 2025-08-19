@@ -32,14 +32,14 @@ To complete the exercises in this repository, please make sure that you meet the
 - [Exercice 2.2 - Create a new Feature](exercises/ex2#Exercice-2.2---Create-a-new-Feature)
 
 #### Develop your pro-code application
-- [Exercise 3.1 - Create new Development Project in SAP Build](exercises/ex3#Exercise-3.1---Create-new-Development-Project-in-SAP-Build)
+- [Exercise 3.1 - Create a new Development Project in SAP Build](exercises/ex3#Exercise-3.1---Create-a-new-Development-Project-in-SAP-Build)
 - [Exercise 3.2 - Use SAP Business Applicaiton Studio and Joule and improve your application](exercises/ex3#Exercise-3.2---Use-SAP-Business-Applicaiton-Studio-and-Joule-and-improve-your-Application)
 - [Exercise 3.3 - Release your Changes to GitHub](exercises/ex3#Exercise-3.3---Release-your-Changes-to-GitHub)
 
 #### Transport your low-code application
 - [Exercise 4.1 - Setup SAP Content Agent Service](exercises/ex4#Exercise-4.1---Setup-SAP-Content-Agent-Service)
 - [Exercise 4.2 - Check your application in mobile services](exercises/ex4#Exercise-4.2---Check-your-application-in-mobile-services)
-- [Exercise 4.3 - Create and send Transport Request in SAP Content Agent Service UI](exercises/ex4#Exercise-4.3---Create-and-send-Transport-Request-in-SAP-Content-Agent-Service-UI)
+- [Exercise 4.3 - Create and send a Transport Request in SAP Content Agent Service UI](exercises/ex4#Exercise-4.3---Create-and-send-a-Transport-Request-in-SAP-Content-Agent-Service-UI)
 
 #### Verify all Release Steps
 - [Exercise 5.1 - Check the Pipeline Job Status](exercises/ex5#Exercise-5.1---Check-the-Pipeline-Job-Status)
