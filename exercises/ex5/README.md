@@ -14,7 +14,11 @@ In this exercise, we will create verify the pipeline job status covering the dif
 
 ## Exercise 5.1 - Verify Transports created in SAP Cloud Transport Management
 
-After completing these steps you will have....
+1. Open Cloud Transport Management service.
+2. Go to Transport Nodes.
+3. Select the node ... and navigate to the import queue.
+4. Look for your transport ID.
+5. The transport will appear in status "Initial".
 
 ## Summary
 
