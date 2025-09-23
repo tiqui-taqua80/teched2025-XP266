@@ -41,9 +41,10 @@ To complete the exercises in this repository, please make sure that you meet the
   * [Exercise 3.2 - Release your Changes to GitHub](exercises/ex3#exercise-32---release-your-changes-to-github)
 
 * #### [Exercise 4 - Transport your low-code application](exercises/ex4#transport-your-low-code-application)
-  * [Exercise 4.0 - Exercise 4.0 - Optional: Access Mobile Services and add a new Feature](exercises/ex4#exercise-40---optional-access-mobile-services-and-add-a-new-feature)
-  * [Exercise 4.1 - Setup SAP Content Agent Service](exercises/ex4#exercise-41---setup-sap-content-agent-service)
-  * [Exercise 4.2 - Create and export a Transport Request in SAP Content Agent Service UI](exercises/ex4#exercise-42---create-and-export-a-transport-request-in-sap-content-agent-service)
+  * [Exercise 4.0 - Create a new SAP Build Mobile Project](exercises/ex4#exercise-40---create-a-ne-sap-build-mobile-project)
+  * [Exercise 4.1 - Access Mobile Services and add a new Feature](exercises/ex4#exercise-41---access-mobile-services-and-add-a-new-feature)
+  * [Exercise 4.2 - Setup SAP Content Agent Service](exercises/ex4#exercise-42---setup-sap-content-agent-service)
+  * [Exercise 4.3 - Create and export a Transport Request in SAP Content Agent Service UI](exercises/ex4#exercise-43---create-and-export-a-transport-request-in-sap-content-agent-service)
 
 * #### [Exercise 5 - Verify all Release Steps](exercises/ex5#verify-all-release-steps)
   * [Exercise 5.0 - Check the Pipeline Job Status](exercises/ex5#exercise-50---check-the-pipeline-job-status)

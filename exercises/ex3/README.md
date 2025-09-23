@@ -9,14 +9,15 @@ In this exercise, we will create a new development project in SAP Build based on
        <br>![](../ex3/images/btp_buildcode.png)
 3. The SAP Build Lobby will open. To establish a new development project, click on **Create** > **Clone from Git**.
         <br>![](../ex3/images/buildcode_lobby.png)
-4. In Create project popup, choose **SAP Fiori application** and confirm with **Next**.
+4. In Create project popup, set the objective as **Application**, and click **Next**.
+5. Choose **SAP Fiori application** and confirm with **Next**.
         <br>![](../ex3/images/buildcode_createproject_type.png)
-5. Since this project is based on the Git repository copied in [Exercise 0](../ex0#exercicse-01---create-a-copy-of-this-repository), provide the corresponding repository URL, which can be retrieved from Git.
+6. Since this project is based on the Git repository copied in [Exercise 0](../ex0#exercicse-01---create-a-copy-of-this-repository), provide the corresponding repository URL, which can be retrieved from Git.
         <br>![](../ex3/images/git_copyurl.png)
-6. Enter a name e.g. **Teched-Development-Project** and optionally a description. 
-7. Confirm with **Review** and **Create**.
+7. Enter a name e.g. **Teched-Development-Project** and optionally a description.
+8. Confirm with **Review** and **Create**.
         <br>![](../ex3/images/buildcode_createproject_name.png)
-8. The **Business Applicaiton Studio** will open in a new browser tab, preparing your development environment.
+9. The **Business Applicaiton Studio** will open in a new browser tab, preparing your development environment.
 
 ## Exercise 3.1 - Add additional sample data to your application
 
