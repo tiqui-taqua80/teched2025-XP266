@@ -15,7 +15,7 @@ Within this hands-on tutorial, we will cover:
 
 1. Set up your delivery pipeline and transport landscape
 2. Maintain your feature in Cloud ALM
-3. Create a transport of your development changes
+3. Implement your development changes and initiate the creation of a transport
 4. Manage your feature in Cloud ALM: assign transports and deploy your changes to your QA and PROD environments
 
 ![](./final-use-case.png)
